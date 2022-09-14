@@ -1,6 +1,6 @@
 # LauchDarkly
 
-Install pglet using pip
+Install pglet using: 
 pip install pglet
 
 to run the todo-complete python code:
